@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deekay05
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in TECH
+- 🌱 I’m currently learning Linux
+- 💞️ I’m looking to collaborate on Shell Scripting Projects
 - 📫 How to reach me ...
 
 <!---
